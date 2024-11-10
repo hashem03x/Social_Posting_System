@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  --text: #140d11;
+  --background: #f9f6f7;
+  --primary: #a37289;
+  --secondary: #c6c1a7;
+  --accent: #a9b38a;
+  
+  
+}
+
+body{
+  height: 100vh;
+  background-color: var(--background);
+}
