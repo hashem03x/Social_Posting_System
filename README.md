@@ -119,12 +119,3 @@ To contribute:
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-### Customizations
-
-- If your project uses a specific setup (e.g., for database migrations, or running tests), you can add additional sections like:
-  - **Database Setup**: Include steps to initialize the database or run migrations.
-  - **Testing**: Instructions on how to run automated tests.
-  - **CI/CD**: Add details if you’re using GitHub Actions or any CI tool.
